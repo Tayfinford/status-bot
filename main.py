@@ -63,4 +63,4 @@ async def statusrole(ctx, role: int, *, checkstring: str):
     if removeCount > 0:
         await ctx.send(f":sadge: I removed role with id `{roleObj.id}` from {removeCount} members")
 
-bot.run("token here")
+bot.run("NjI2MDA3ODc4OTk3NzcwMjQx.XYn1RQ.WAgebHdpov8UACpJ0asXiubAfBU")
